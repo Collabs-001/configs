@@ -1,0 +1,1859 @@
+{
+  "general": {
+    "browser-mode": ""
+  },
+  "sites": {
+    "fynd": {
+      "url": "https://jobs.lever.co/fynd",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Fynd",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "stackline": {
+      "url": "https://jobs.lever.co/stackline",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Stackline",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "zadara": {
+      "url": "https://jobs.lever.co/zadara",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Zadara",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "parallelwireless": {
+      "url": "https://jobs.lever.co/parallelwireless",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Parallel Wireless",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "netomi": {
+      "url": "https://jobs.lever.co/netomi",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Netomi",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "bookee": {
+      "url": "https://jobs.lever.co/bookeeapp",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Bookee",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "fampay": {
+      "url": "https://jobs.lever.co/fampay",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Fampay",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "mindtickle": {
+      "url": "https://jobs.lever.co/mindtickle",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Mindtickle",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "curefit": {
+      "url": "https://jobs.lever.co/curefit",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "CureFit",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "hotstar": {
+      "url": "https://jobs.lever.co/hotstar",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Hotstar",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "protegrity": {
+      "url": "https://jobs.lever.co/protegrity",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Protegrity",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "directi": {
+      "url": "https://jobs.lever.co/directi",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Directi",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "plivo": {
+      "url": "https://jobs.lever.co/plivo",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Plivo",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "ironclad": {
+      "url": "https://jobs.lever.co/ironcladapp",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Ironclad",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "headout": {
+      "url": "https://jobs.lever.co/headout",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Headout",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "vauld": {
+      "url": "https://jobs.lever.co/vauld",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Vauld",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "plum": {
+      "url": "https://jobs.lever.co/plum",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Plum",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "acceldata": {
+      "url": "https://jobs.lever.co/acceldata",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Acceldata",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "naukri": {
+      "url": "https://www.naukri.com/devops-engineer-site-reliability-engineer-prometheus-grafana-sre-monitoring-tools-jobs-in-india?k\u003ddevops%2C%20devops%20engineer%2C%20site%20reliability%20engineer%2C%20prometheus%2C%20grafana%2C%20sre%2C%20monitoring%20tools\u0026l\u003dindia\u0026nignbevent_src\u003djobsearchDeskGNB\u0026experience\u003d1\u0026jobAge\u003d3",
+      "company": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div[2]/span/a[1]",
+        "type": "xpath"
+      },
+      "postName": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div/div/div/div/div[1]/a",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div[3]/div/span[3]/span/span",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div/div/span[1]/span/span",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div[4][not(@class\u003d\"styles_bellyFilterComp__xYmcV\")]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div[1]/a",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "//*[@id\u003d\"listContainer\"]/div[2]/div/div/div/div[1]/a",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "//*[@id\u003d\"lastCompMark\"]/a[2]",
+        "type": "xpath"
+      }
+    },
+    "rocketlawyer": {
+      "url": "https://jobs.lever.co/rocketlawyer",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "RocketLawyer",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "harness": {
+      "url": "https://jobs.lever.co/harness",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Harness",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "olx": {
+      "url": "https://jobs.lever.co/olx",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Olx",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "atlassian": {
+      "url": "https://jobs.lever.co/atlassian",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Atlassian",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "couchbase": {
+      "url": "https://jobs.lever.co/couchbase",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Couchbase",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "upstox": {
+      "url": "https://jobs.lever.co/upstox",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Upstox",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "palantir": {
+      "url": "https://jobs.lever.co/palantir",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Palantir",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "pillow": {
+      "url": "https://jobs.lever.co/pillow",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Pillow",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "bazaarvoice": {
+      "url": "https://jobs.lever.co/bazaarvoice",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Bazaarvoice",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "zeotap": {
+      "url": "https://jobs.lever.co/zeotap",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Zeotap",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "meesho": {
+      "url": "https://jobs.lever.co/meesho",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Meesho",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "polygon": {
+      "url": "https://jobs.lever.co/polygon",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Polygon",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "jupiter": {
+      "url": "https://jobs.lever.co/jupiter",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Jupiter",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "epifi": {
+      "url": "https://jobs.lever.co/epifi",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "epiFi",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "helpshift": {
+      "url": "https://jobs.lever.co/helpshift",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Helpshift",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "dazn": {
+      "url": "https://jobs.lever.co/dazn",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Dazn",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "gotogroup": {
+      "url": "https://jobs.lever.co/gotogroup",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Gojek",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "juniper": {
+      "url": "https://jobs.lever.co/juniper",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Juniper",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "doola": {
+      "url": "https://jobs.lever.co/doola",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Doola",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "weathfront": {
+      "url": "https://jobs.lever.co/wealthfront",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Wealthfront",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "google": {
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location\u003dBengaluru%2C%20India\u0026target_level\u003dINTERN_AND_APPRENTICE\u0026target_level\u003dMID\u0026target_level\u003dEARLY\u0026employment_type\u003dINTERN\u0026employment_type\u003dPART_TIME\u0026employment_type\u003dTEMPORARY\u0026employment_type\u003dFULL_TIME",
+      "company": {
+        "locator": "//li/div/div/div/div/div/div/span[1]/span",
+        "type": "xpath"
+      },
+      "postName": {
+        "locator": "//li/div/div/div/div/div/div/h3",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//li/div/div/div/div/div/div/span[2]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "//li/div/div/div[1]/div/div[2]/div/div/span/div[1]/button/span",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//li/div/div/div/div/div[4]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//li/div/div/div/div/div[5]/div/a",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "//li/div/div/div[1]/div",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "//i[contains(text(),\"navigate_next\")]",
+        "type": "xpath"
+      }
+    },
+    "newtonschool": {
+      "url": "https://jobs.lever.co/newton-school",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Newton School",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "juno": {
+      "url": "https://jobs.lever.co/juno",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Juno",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "credavenue": {
+      "url": "https://jobs.lever.co/credavenue",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "CredAvenue",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "cred": {
+      "url": "https://jobs.lever.co/cred",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Cred",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "nielsen": {
+      "url": "https://jobs.lever.co/nielsen",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Nielsen",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "aidash": {
+      "url": "https://jobs.lever.co/aidash",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "AiDash",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "binance": {
+      "url": "https://jobs.lever.co/binance",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Binance",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "aeratechnology": {
+      "url": "https://jobs.lever.co/aeratechnology",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Aera Technology",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "meero": {
+      "url": "https://jobs.lever.co/meero",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Meero",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "yellowai": {
+      "url": "https://jobs.lever.co/yellowai",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Yellow.ai",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "bebop": {
+      "url": "https://jobs.lever.co/bebop",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Bebop",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "dream11": {
+      "url": "https://jobs.lever.co/dreamsports",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Dream 11",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "zeta": {
+      "url": "https://jobs.lever.co/zeta",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Zeta",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "guidewire": {
+      "url": "https://jobs.lever.co/guidewire",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Guidewire",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "paytm": {
+      "url": "https://jobs.lever.co/paytm",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Paytm",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    },
+    "icertis": {
+      "url": "https://jobs.lever.co/icertis",
+      "detailsInJobPage": "true",
+      "fixedCompanyName": "Icertis",
+      "postName": {
+        "locator": "//h2",
+        "type": "xpath"
+      },
+      "jobLocation": {
+        "locator": "//div[@class\u003d\"posting-categories\"]/div[1]",
+        "type": "xpath"
+      },
+      "experience": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "jobDescription": {
+        "locator": "//div[@data-qa\u003d\"job-description\"]",
+        "type": "xpath"
+      },
+      "jobURL": {
+        "locator": "//a[@class\u003d\"posting-title\"]",
+        "type": "xpath"
+      },
+      "pageJobsCount": {
+        "locator": "NA",
+        "type": "xpath"
+      },
+      "nextPage": {
+        "locator": "NA",
+        "type": "xpath"
+      }
+    }
+  }
+}

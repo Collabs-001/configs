@@ -1,0 +1,35 @@
+{
+  "url" : "https://www.google.com/about/careers/applications/jobs/results/?location=Bengaluru%2C%20India&target_level=INTERN_AND_APPRENTICE&target_level=MID&target_level=EARLY&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&employment_type=FULL_TIME",
+  "company": {
+    "locator": "//li/div/div/div/div/div/div/span[1]/span",
+    "type": "xpath"
+  },
+  "postName": {
+    "locator": "//li/div/div/div/div/div/div/h3",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//li/div/div/div/div/div/div/span[2]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "//li/div/div/div[1]/div/div[2]/div/div/span/div[1]/button/span",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//li/div/div/div/div/div[4]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//li/div/div/div/div/div[5]/div/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//li/div/div/div[1]/div",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "//i[contains(text(),\"navigate_next\")]",
+    "type": "xpath"
+  }
+}
