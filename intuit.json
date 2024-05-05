@@ -1,0 +1,38 @@
+{
+  "url": "https://jobs.intuit.com/search-jobs/India",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Intuit",
+  "logo": {
+    "locator": "//*[@id=\"un-header\"]/div/div/div/div/div/div/div/ul/li/a/span/img",
+    "type": "xpath"
+  },
+  "postName": {
+    "locator": "//*[@id=\"job-details-wrapper\"]/section/h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//*[@id=\"job-details-wrapper\"]/section/span[2]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"job-qualifications\"]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"search-results-list\"]/ul/li/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//*[@id=\"pagination-bottom\"]/div[1]/span",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "//*[@id=\"pagination-bottom\"]/div/a[2]",
+    "type": "xpath"
+  }
+}
