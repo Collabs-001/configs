@@ -3,7 +3,7 @@
   "detailsInJobPage": "true",
   "fixedCompanyName": "CredAvenue",
   "logo": {
-    "locator": "/html/body/div[2]/div/div/a/img",
+    "locator": "/html/body/div/div/div/a/img",
     "type": "xpath"
   },
   "postName": {

@@ -1,11 +1,11 @@
 {
   "url": "https://jobs.lever.co/hotstar",
-  "logo": {
-    "locator": "/html/body/div[2]/div/div/a/img",
-    "type": "xpath"
-  },
   "detailsInJobPage": "true",
   "fixedCompanyName": "Hotstar",
+  "logo": {
+    "locator": "/html/body/div/div/div/a/img",
+    "type": "xpath"
+  },
   "postName": {
     "locator": "//h2",
     "type": "xpath"
