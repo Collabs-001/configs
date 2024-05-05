@@ -1972,8 +1972,7 @@
       "detailsInJobPage": "true",
       "fixedCompanyName": "Amazon",
       "logo": {
-        "locator": "//*[@id\u003d\"sc-navbar-container\"]/div/div/div/nav/div[1]/a[2]/div",
-        "type": "xpath"
+        "fixed": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
       },
       "postName": {
         "locator": "//h1",
