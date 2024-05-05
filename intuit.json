@@ -6,6 +6,10 @@
     "locator": "//*[@id=\"un-header\"]/div/div/div/div/div/div/div/ul/li/a/span/img",
     "type": "xpath"
   },
+  "cookies": {
+    "locator": "//*[@id=\"igdpr-button\"]",
+    "type": "xpath"
+  },
   "postName": {
     "locator": "//*[@id=\"job-details-wrapper\"]/section/h1",
     "type": "xpath"
