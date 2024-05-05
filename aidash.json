@@ -2,6 +2,10 @@
   "url": "https://jobs.lever.co/aidash",
   "detailsInJobPage": "true",
   "fixedCompanyName": "AiDash",
+  "logo": {
+    "locator": "/html/body/div[2]/div/div/a/img",
+    "type": "xpath"
+  },
   "postName": {
     "locator": "//h2",
     "type": "xpath"

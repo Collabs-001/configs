@@ -1,5 +1,9 @@
 {
   "url": "https://jobs.lever.co/helpshift",
+  "logo": {
+    "locator": "/html/body/div[2]/div/div/a/img",
+    "type": "xpath"
+  },
   "detailsInJobPage": "true",
   "fixedCompanyName": "Helpshift",
   "postName": {

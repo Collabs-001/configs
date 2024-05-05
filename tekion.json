@@ -1,0 +1,36 @@
+{
+  "url": "https://tekion.com/job-openings/india/all",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Tekion",
+  "logo": {
+    "fixed": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tekion_corp_logo.jpg"
+  },
+  "postName": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div[1]/div/div/div[1]",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div[2]/div/p",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div[4]/div/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div/div/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}

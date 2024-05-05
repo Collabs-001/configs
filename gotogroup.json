@@ -1,5 +1,9 @@
 {
   "url": "https://jobs.lever.co/gotogroup",
+  "logo": {
+    "locator": "/html/body/div[2]/div/div/a/img",
+    "type": "xpath"
+  },
   "detailsInJobPage": "true",
   "fixedCompanyName": "Gojek",
   "postName": {

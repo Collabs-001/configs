@@ -1,5 +1,8 @@
 {
   "url" : "https://www.google.com/about/careers/applications/jobs/results/?location=Bengaluru%2C%20India&target_level=INTERN_AND_APPRENTICE&target_level=MID&target_level=EARLY&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&employment_type=FULL_TIME",
+  "logo": {
+    "fixed": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+  },
   "company": {
     "locator": "//li/div/div/div/div/div/div/span[1]/span",
     "type": "xpath"

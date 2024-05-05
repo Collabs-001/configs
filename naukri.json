@@ -1,5 +1,9 @@
 {
   "url" : "https://www.naukri.com/devops-engineer-site-reliability-engineer-prometheus-grafana-sre-monitoring-tools-jobs-in-india?k=devops%2C%20devops%20engineer%2C%20site%20reliability%20engineer%2C%20prometheus%2C%20grafana%2C%20sre%2C%20monitoring%20tools&l=india&nignbevent_src=jobsearchDeskGNB&experience=1&jobAge=3",
+  "logo": {
+    "locator": "/html/body/div[2]/div/div/a/img",
+    "type": "xpath"
+  },
   "company": {
     "locator": "//*[@id=\"listContainer\"]/div[2]/div/div/div/div[2]/span/a[1]",
     "type": "xpath"

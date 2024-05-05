@@ -1,0 +1,38 @@
+{
+  "url": "https://www.amazon.jobs/content/en/job-categories/software-development?employment-type%5B%5D=Full+time&country%5B%5D=IN",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Amazon",
+  "logo": {
+    "locator": "//*[@id=\"sc-navbar-container\"]/div/div/div/nav/div[1]/a[2]/div",
+    "type": "xpath"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "(//li)[14]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "(//p)[3]",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "(//p)[2]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"search\"]/div/div/ul/li/div/div/div/div/h3/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//*[@id=\"search\"]/div/div/div/nav/ul/li[7]/button/div/div",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "//*[@id=\"search\"]/div/div/div/nav/button[2]/div/div",
+    "type": "xpath"
+  }
+}

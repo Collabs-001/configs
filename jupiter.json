@@ -2,6 +2,10 @@
   "url": "https://jobs.lever.co/jupiter",
   "detailsInJobPage": "true",
   "fixedCompanyName": "Jupiter",
+  "logo": {
+    "locator": "/html/body/div[2]/div/div/a/img",
+    "type": "xpath"
+  },
   "postName": {
     "locator": "//h2",
     "type": "xpath"
