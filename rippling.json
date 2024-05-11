@@ -1,0 +1,36 @@
+{
+  "url": "https://www.rippling.com/careers/open-roles",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Rippling",
+  "logo": {
+    "fixed": "https://play-lh.googleusercontent.com/JmTADHoAPMDtXtseUpGpBTxHzeS8og8gxFKFjsz2xdjhMR9P-nC2cnabkOTWCjcSEyDU=w600-h300-pc0xffffff-pd"
+  },
+  "postName": {
+    "locator": "//h2",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div[2]/div/div[2]/div[1]/div[2]/p",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"__next\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//div/a/p[contains(text(),'Engineering')]/parent::*",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//div/a/p[contains(text(),'Engineering')]/parent::*",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}
