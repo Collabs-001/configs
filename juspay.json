@@ -1,0 +1,36 @@
+{
+  "url": "https://juspay.in/careers",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Juspay",
+  "logo": {
+    "fixed": "https://juspay.in/logo_juspay.svg"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"gatsby-focus-wrapper\"]/section/main/main/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"openings\"]/article/article/article/article/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}
