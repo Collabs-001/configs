@@ -1,0 +1,36 @@
+{
+  "url": "https://www.grab.careers/en/jobs/?search=&country=India#results",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Grab",
+  "logo": {
+    "fixed": "https://www.grab.careers/images/logo.svg"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//*[@id=\"content\"]/section[1]/div/div/div/ul/li[2]/a",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"tab-2-collapse\"]/div/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"js-job-search-results\"]/div/div/h2/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}
