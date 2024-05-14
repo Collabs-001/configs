@@ -1,0 +1,36 @@
+{
+  "url": "https://jobs.lever.co/jar-app",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Jar",
+  "logo": {
+    "fixed": "https://lever-client-logos.s3.us-west-2.amazonaws.com/2a81954c-124c-4e43-a34f-916adc6d3e9a-1701359758961.png"
+  },
+  "postName": {
+    "locator": "//h2",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//div[@class=\"posting-categories\"]/div[1]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "(//div[@class=\"section page-centered\"])[1]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//a[@class=\"posting-title\"]",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}
