@@ -1,0 +1,37 @@
+{
+  "url": "https://www.appsmith.com/careers#open-roles",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Appsmith",
+  "logo": {
+    "fixed": "https://www.appsmith.com/_next/image?url=%2Fassets%2Fimages%2Flogos%2FAppsmith_Logo.svg&w=128&q=75"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "(//div[2]/div/div)[2]/div",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "//h1/following-sibling::span",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//*[@id=\"job-description\"]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*[@id=\"open-roles\"]/div/div/div/div/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "NA",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "NA",
+    "type": "xpath"
+  }
+}
