@@ -1,0 +1,37 @@
+{
+  "url": "https://jobs.apple.com/en-in/search?location=india-INDC",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Apple",
+  "logo": {
+    "fixed": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "//*[@id=\"job-location-name\"]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "(//div/section[1]/div)[2]/div[2]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*/tr[1]/td[1]/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//*[@id=\"resultCount\"]",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "//li[3]/span/a",
+    "type": "xpath"
+  }
+}
