@@ -1,0 +1,37 @@
+{
+  "url": "https://one.walmart.com/content/globaltechindia/en_in/results.html?country=india",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "Walmart",
+  "logo": {
+    "fixed": "https://one.walmart.com/content/globaltechindia/en_in/tools/header/_jcr_content/header.img.png"
+  },
+  "postName": {
+    "locator": "(//h2)[1]",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "(//dl/dd)[1]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//div[3]/div[2]/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//div[@class=\"result-title-wrapper\"]/div/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//div[@class=\"result-heading\"]/p",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "//div[@class=\"loadmore\"]/button",
+    "type": "xpath"
+  }
+}
