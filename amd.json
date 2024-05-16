@@ -1,0 +1,37 @@
+{
+  "url": "https://careers.amd.com/careers-home/jobs?location=India&stretch=10&stretchUnit=MILES&page=1&sortBy=posted_date&descending=true",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "AMD",
+  "logo": {
+    "fixed": "https://cms.jibecdn.com/prod/amd/assets/HEADER-NAV_LOGO-en-us-1666176510860.png"
+  },
+  "postName": {
+    "locator": "//h1",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "(//li)[16]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//article[@id=\"description-body\"]",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//*/span[1]/mat-panel-title/p[1]/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "//*[@id=\"mat-select-value-13\"]",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "(//button)[8]",
+    "type": "xpath"
+  }
+}
