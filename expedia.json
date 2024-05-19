@@ -1,0 +1,37 @@
+{
+  "url": "https://careers.expediagroup.com/jobs/?&filter[country]=India",
+  "detailsInJobPage": "true",
+  "fixedCompanyName": "ExpediaGroup",
+  "logo": {
+    "fixed": "https://careers.expediagroup.com/wp-content/themes/careers.expediagroup.com/assets/build/img/logos/expedia-group.svg"
+  },
+  "postName": {
+    "locator": "(//h4)[1]",
+    "type": "xpath"
+  },
+  "jobLocation": {
+    "locator": "(//div[1]/div/ul/li[1]/p)[3]",
+    "type": "xpath"
+  },
+  "experience": {
+    "locator": "NA",
+    "type": "xpath"
+  },
+  "jobDescription": {
+    "locator": "//section[3]/div/div/div",
+    "type": "xpath"
+  },
+  "jobURL": {
+    "locator": "//ul/li/div/div/a",
+    "type": "xpath"
+  },
+  "pageJobsCount": {
+    "locator": "(//h2)[4]",
+    "type": "xpath",
+    "hasCountInText": "true"
+  },
+  "nextPage": {
+    "locator": "//button[@id=\"loadmore\"]",
+    "type": "xpath"
+  }
+}
